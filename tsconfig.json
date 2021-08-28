@@ -4,6 +4,7 @@
         "allowUnusedLabels": false,
         "declaration": true,
         "esModuleInterop": true,
+        "exactOptionalPropertyTypes": true,
         "forceConsistentCasingInFileNames": true,
         "jsx": "react",
         "lib": ["DOM", "ES2021"],

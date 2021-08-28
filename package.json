@@ -4,6 +4,6 @@
   "description": "jwilsson TypeScript config",
   "license": "MIT",
   "peerDependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.2"
   }
 }

@@ -7,7 +7,7 @@
         "exactOptionalPropertyTypes": true,
         "forceConsistentCasingInFileNames": true,
         "jsx": "react",
-        "lib": ["DOM", "ES2021"],
+        "lib": ["DOM", "ES2022"],
         "module": "ES2022",
         "moduleResolution": "node",
         "newLine": "lf",
@@ -22,7 +22,7 @@
         "skipLibCheck": true,
         "sourceMap": true,
         "strict": true,
-        "target": "ES2021",
+        "target": "ES2022",
         "useDefineForClassFields": true,
     }
 }
